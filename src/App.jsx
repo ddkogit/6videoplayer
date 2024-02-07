@@ -30,7 +30,7 @@ function App() {
       <h1>Project 6: Video Player</h1>
 
       <Menu videos={videos} sendVideo={sendVideo} />
-
+    <br></br>
       <Video videoLink={videoLink} />
     </>
   );
